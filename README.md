@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @apfeil123
 - 👀 I’m interested in Python and mobile apps.
-- 🌱 I’m currently learning Python, Kivy, PHP, Laravel.
+- 🌱 I’m currently learning Python, Kivy.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ?
 - 😄 Pronouns: None
